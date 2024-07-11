@@ -1,6 +1,6 @@
 <x-app-layout>
     <x-slot name="header" class="text-gray-800 dark:text-gray-200">
-        Notes List
+        NoteList
     </x-slot>
 
     <div class="grid p-2 text-gray-800 dark:text-gray-200" style="grid-auto-flow: row; grid-gap:1rem; grid-auto-columns: 20%;">
